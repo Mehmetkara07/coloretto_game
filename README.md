@@ -1,4 +1,8 @@
 # coloretto_game
+
+go to https://snap.berkeley.edu/snap/snap.html and drop this file into it.
+
+
 Outline: In this project, you will simulate the Coloretto card game by Michael Schacht.
 Coloretto is a card game played with a special deck of cards consisting of 77 cards. There are
 four types of cards: 63 color cards (9 cards each in 7 colors), 10 “+2” cards, 3 joker cards, and
